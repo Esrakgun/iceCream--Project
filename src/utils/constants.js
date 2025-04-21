@@ -1,0 +1,69 @@
+
+const mockCartData = [{ name: "Çikolata" }, { name: "Vanilya" }, { name: "Nane" }];
+
+const mockData = [
+  {
+    "name": "Bal Badem",
+    "image": "/BB.png",
+    "price": 25.0
+  },
+  {
+    "name": "Çikolata Fırtınası",
+    "image": "/icee.png",
+    "price": 20.0
+  },
+  {
+    "name": "Vanilya Düşleri",
+    "image": "/vanilyalı.png",
+    "price": 22.5
+  },
+  {
+    "name": "Mango Serinliği",
+    "image": "/Mangoo.png",
+    "price": 28.0
+  },
+  {
+    "name": "Frambuaz Parçacıklı",
+    "image": "/frn.png",
+    "price": 32.0
+  },
+  {
+    "name": "Böğürtlen Rüyası",
+    "image": "/Bögürtlenli.png",
+    "price": 34.0
+  },
+  {
+    "name": "Limon Ferahlığı",
+    "image": "/limon.png",
+    "price": 24.0
+  },
+  {
+    "name": "Fındıklı Krem",
+    "image": "/fındıklı.png",
+    "price": 26.0
+  },
+  {
+    "name": "Karamelli Süt",
+    "image": "/Karamel.png",
+    "price": 29.0
+  },
+  {
+    "name": "Kavun Esintisi",
+    "image": "/1.1.png",
+    "price": 23.0
+  },
+  {
+    "name": "Antep Fıstığı",
+    "image": "/antepF.png",
+    "price": 30.0
+  },
+  {
+    "name": "Çilek Klasiği",
+    "image": "k.png",
+    "price": 21.0
+  }
+];
+
+
+
+  export {mockData , mockCartData};
