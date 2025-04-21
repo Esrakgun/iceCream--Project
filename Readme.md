@@ -50,4 +50,7 @@ Sizinle her zaman konuşmaktan mutluluk duyarım! 😄
 # 📸 Ekran Görüntüsü 🖼️
 Aşağıda, projemin bazı ekran görüntülerini bulabilirsiniz. Bu görseller, projedeki kullanıcı arayüzünün nasıl göründüğünü ve sunduğum özellikleri daha iyi anlamanıza yardımcı olacaktır. 👇
 
-![](iceCeam.mp4)
+
+https://github.com/user-attachments/assets/1b466148-7a17-4b10-9c45-082d47f16f93
+
+
